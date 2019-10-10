@@ -2,9 +2,9 @@
 A collection of sketches for driving a string of Neopixel LEDs with an Arduino
 
 # Connecting the Arduino to the strip
+Note: Arduino pin may vary with each sketch!<BR>
 
 Stand Alone Wiring<br>
-Note: Arduino pin may vary with each sketch!<BR>
 <img src="https://www.tweaking4all.com/wp-content/uploads/2014/01/arduino_no_computer_power.jpg" width=500>
 
 Connected to a PC<br>
