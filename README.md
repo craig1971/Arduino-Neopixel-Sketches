@@ -1,4 +1,4 @@
-# Arduino-Neopixel-Sketches
+# Arduino Neopixel Sketches
 A collection of sketches for driving a string of Neopixel LEDs with an Arduino
 
 
